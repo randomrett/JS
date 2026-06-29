@@ -53,5 +53,5 @@
 
 let gameCounter = 11;
 ++gameCounter;
-console.log(gameCounter);
+console.log(gameCounter)
 
